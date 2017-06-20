@@ -12,3 +12,9 @@
 * [ ] 存储任务信息为本地数据。
 * [ ] 通过网络存取任务信息。
 * [ ] 其他待填加。
+
+截图：
+
+![a](https://github.com/live106/todo-for-react-native/blob/master/snapshots/tasks.png)
+
+![a](https://github.com/live106/todo-for-react-native/blob/master/snapshots/create.png)
