@@ -1,5 +1,5 @@
 # todo-for-react-native
-基础代码来自：https://github.com/uiheros/react-native-redux-todo-list,感谢原作者。
+基础代码来自：https://github.com/uiheros/react-native-redux-todo-list, 感谢原作者。
 
 原内容：
 * [X] TODO基本功能。
